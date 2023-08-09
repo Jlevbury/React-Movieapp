@@ -2,7 +2,7 @@
 	"name": "popcorn",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://jlevbury.github.io",
+	"homepage": "https://jlevbury.github.io/React-Movieapp",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.17.0",
 		"@testing-library/react": "^13.4.0",
